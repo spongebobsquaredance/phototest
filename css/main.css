@@ -68,15 +68,15 @@ h2 {
 	font-size: 1.25em;
 }
 .image-container {
-	width: 80%;
 	margin: 0 auto;
 	overflow: hidden;
 }
 .image-container img {
 	float: left;
-	max-width: 33.333%;
+	max-width: 100%;
 }
 .button-container {
+	text-align: center;
 	margin: 2em;
 	width: 80%;
 }
